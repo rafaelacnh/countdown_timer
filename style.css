@@ -16,3 +16,36 @@ body{
     font-family: "Poppins", sans-serif;
     margin:0;
 }
+
+
+
+h1 {
+    font-weight: normal;
+    font-size: 4rem;
+    margin-top: 2rem;
+    color:#ffffff;
+}
+.countdown-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.big-text{
+    font-weight: bold;
+    font-size: 6rem;
+    line-height: 1;
+    margin: 1rem 2rem;
+    color: white;
+}
+
+.countdown-el {
+    text-align: center;
+    color: white;
+}
+
+.countdown-el span {
+    font-size: 1.3rem;
+}
